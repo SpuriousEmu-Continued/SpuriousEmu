@@ -1,0 +1,10 @@
+A list of known bugs by the developers.
+
+Most area's show up as "City"
+GM commands don't work quite yet. 
+Instances don't work. 
+Logging in is really buggy.
+Creatures don't exist yet.
+Very buggy creature AI system.
+
+--- Make sure to extract maps/dbc with a compiled ad.exe, NOT ad_debug.exe, otherwise you'll get big errors when logging in
